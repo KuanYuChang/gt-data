@@ -8,6 +8,7 @@ from hero.max_stats import *
 from hero.chain_ability import *
 from hero.passives import *
 from hero.special_ability import *
+from hero.exclusive_weapon import *
 
 # common variable
 csv_dir = 'csv/hero'
@@ -155,5 +156,30 @@ print('Done.')
 
 print('Saving out to csv format...', end=' ')
 save_csv(csv_dir, 'passives', passivess)
+print('Done.')
+
+# update exclusive weapon
+print ('Building exclusive weapons...', end=' ')
+exclusive_weapon = pd.DataFrame()
+
+weapon_names = []
+weapon_abilities = []
+
+for name in names:
+  html = html_source[name]
+  weapon_name = get_weapon_name(html)
+  weapon_ability = get_weapon_ability(html)
+
+  weapon_names.append(weapon_name)
+  weapon_abilities.append(weapon_ability)
+
+exclusive_weapon['Name'] = names
+exclusive_weapon['Exclusive weapon'] = weapon_names
+exclusive_weapon['Ability'] = weapon_abilities
+print('Done.')
+
+
+print('Saving out to csv format...', end=' ')
+save_csv(csv_dir, 'exclusive_weapon', exclusive_weapon)
 print('Done.')
 
