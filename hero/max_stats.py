@@ -1,3 +1,5 @@
+import pandas as pd
+
 def get_stats(html_source):
   return html_source.xpath('//span[@class="elementor-progress-text"]/text()')
 
@@ -18,6 +20,36 @@ def get_damage_reduction(html_source):
 
 def get_heal(html_source):
   return get_stats(html_source)[5][len('Heal '):]
+
+def build_max_stats(names, htmls):
+  print('Building {}...'.format('max_stats'), end=' ')
+  max_stats = pd.DataFrame()
+  
+  atks = []
+  hps = []
+  defs = []
+  crits = []
+  damage_reductions = []
+  heals = []
+  
+  for name in names:
+    html = htmls[name]
+    atks.append(get_atk(html))
+    hps.append(get_hp(html))
+    defs.append(get_def(html))
+    crits.append(get_crit(html))
+    damage_reductions.append(get_damage_reduction(html))
+    heals.append(get_heal(html))
+  
+  max_stats['Name'] = names
+  max_stats['ATK'] = atks
+  max_stats['HP'] = hps
+  max_stats['DEF'] = defs
+  max_stats['Crit Chance'] = crits
+  max_stats['Damage Reduction'] = damage_reductions
+  max_stats['Heal'] = heals
+  print('Done.')
+  return max_stats
 
 if __name__ == '__main__':
   import urllib.request as ur
