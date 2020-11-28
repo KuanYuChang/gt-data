@@ -1,22 +1,4 @@
 Name,Passives
-Goddess of War Plitvice,"[Party] Fire Atk +40.0%
-Skill Atk +15.0%"
-Knight Lady Lapice,"[Party] Light Atk +40.0%
-Weapon Skill Regen Speed +6.0%"
-Grand Admiral Marina,"[Party] HP +40.0%
-Weapon Skill Regen Speed +8.0%"
-Executive Red Hood Arabelle,"[Party] Dark Atk +40.0%
-Skill Atk +10.0%"
-Idol Captain Eva,[Party] Basic Atk +40.0%
-Flower Girl Bari,"[Party] Skill Atk +80.0%
-+10.0% shield increase on battle start"
-Ice Witch Lupina,"[Party] Crit Hit chance +27.0%
-+8.0% Atk increase on enemy kill"
-Scrivener Lahn,"[Party] HP +40.0%
-+1.0% HP recovery on enemy kill"
-Movie Star Eugene,"[Party] Melee Atk +50.0%
-Weapon Skill Regen Speed +6.0%
-Skill Atk +6.0%"
 Dancing Archer Tinia,"[Party] Range Atk +50.0%
 +5.0% Atk increase on enemy kill
 +0.5% HP recovery on enemy kill"
@@ -25,62 +7,80 @@ Skill Atk +5.0%
 +5.0% Atk increase on enemy kill"
 Eight-tailed Fox Nari,"[Party] Range Atk +50.0%
 Skill Atk +18.0%"
-Noble Succubus Bianca,"[Party] Crit Hit chance +27.0%
-+5.0% shield increase on battle start
-Skill Atk +6.0%"
-Mecha Warrior Oghma,"[Party] Def +45.0%
-Weapon Skill Regen Speed +4.0%
-+1.0% HP recovery on enemy kill"
+Executive Red Hood Arabelle,"[Party] Dark Atk +40.0%
+Skill Atk +10.0%"
+Exorcist Miya,"[Party] Skill Atk +80.0%
++5.0% shield increase on battle start"
+Flower Girl Bari,"[Party] Skill Atk +80.0%
++10.0% shield increase on battle start"
+Future Princess,"[Party] HP +40.0%
+Skill Atk +17.0%"
+Goddess of War Plitvice,"[Party] Fire Atk +40.0%
+Skill Atk +15.0%"
 Golem Rider Alef,"[Party] Range Def +70.0%
 Weapon Skill Regen Speed +6.0%
 Skill Atk +6.0%"
-Exorcist Miya,"[Party] Skill Atk +80.0%
+Grand Admiral Marina,"[Party] HP +40.0%
+Weapon Skill Regen Speed +8.0%"
+Ice Witch Lupina,"[Party] Crit Hit chance +27.0%
++8.0% Atk increase on enemy kill"
+Idol Captain Eva,[Party] Basic Atk +40.0%
+Knight Lady Lapice,"[Party] Light Atk +40.0%
+Weapon Skill Regen Speed +6.0%"
+Mecha Warrior Oghma,"[Party] Def +45.0%
+Weapon Skill Regen Speed +4.0%
++1.0% HP recovery on enemy kill"
+Movie Star Eugene,"[Party] Melee Atk +50.0%
+Weapon Skill Regen Speed +6.0%
+Skill Atk +6.0%"
+Noble Succubus Bianca,"[Party] Crit Hit chance +27.0%
++5.0% shield increase on battle start
+Skill Atk +6.0%"
+Scrivener Lahn,"[Party] HP +40.0%
++1.0% HP recovery on enemy kill"
+Aspiring Warrior Craig,"[Party] Def +44.0%
+Skill Atk +3.0%
++0.5% HP recovery on enemy kill"
+Desert Mercenary Marvin,[Party] HP +38.0%
+Dimension Traveler Catherine,"[Party] Range Def +66.0%
++10.0% shield increase on battle start"
+Dragon Knight Shapira,[Party] Melee Atk +46.0%
+Dragon Talon Clan Ranpang,[Party] Def +42.0%
+Dual-personality Maid Amy,"[Party] Melee Atk +48.0%
++7.0% Atk increase on enemy kill"
+Engineer Marianne,[Party] Earth Atk +36.0%
+Fire Dragon Girgas,"[Party] Skill Atk +74.0%
+Skill Atk +10.0%"
+Innkeeper Loraine,"[Party] +20.0% shield increase on battle start
 +5.0% shield increase on battle start"
-Future Princess,"[Party] HP +40.0%
-Skill Atk +17.0%"
+Innuit Girl Coco,"[Party] Skill Atk +72.0%
+Skill Atk +10.0%"
+Knight Captain Eva,"[Party] Def +22.0%
+[Party] Light Atk +14.0%"
+Kung Fu Master Mei,[Party] Melee Def +64.0%
+Leaf Fairy Aoba,"[Party] Earth Atk +35.0%
+Weapon Skill Regen Speed +5.0%"
+Mad Scientist Gremory,[Party] Skill Atk +72.0%
 Male Knight,"[Party] Basic Atk +36.0%
 Weapon Skill Regen Speed +5.0%
 Skill Atk +3.0%"
-Knight Captain Eva,"[Party] Def +22.0%
-[Party] Light Atk +14.0%"
+Pirate Rachel,"[Party] Range Atk +48.0%
+Skill Atk +6.0%"
+Princess Aisha,[Party] HP +36.0%
 Red Hood Elvira,[Party] Range Atk +48.0%
-White Beast,"[Party] Water Atk +36.0%
-+0.5% HP recovery on enemy kill"
-Vampire Girl Karina,"[Party] +3.0% HP recovery on enemy kill
-[Party] Dark Atk +30.0%"
-Innkeeper Loraine,"[Party] +20.0% shield increase on battle start
-+5.0% shield increase on battle start"
+Scientist Sohee,[Party] Weapon Skill Regen Speed +30.0%
+Sniper Hekate,"[Party] Crit Hit chance +24.0%
+Skill Atk + 5.0%"
+Succubus Adventurer Yuze,"[Party] HP +36.0%
+Weapon Skill Regen Speed +5.0%"
+Swindler Magician Dolf,[Party] Weapon Skill Regen Speed +28.0%
+Swordsman Akayuki,"[Party] Crit Hit chance +25.0%
+Skill Atk +5.0%"
 Twin Fighter Lavi,"[Party] Def +48.0%
 Weapon Skill Regen Speed +4.0%"
 Twin Healer Favi,"[Party] Atk, Heal +240.0% for Chain Skills targeting injured
 Skill Atk +10.0%"
-Leaf Fairy Aoba,"[Party] Earth Atk +35.0%
-Weapon Skill Regen Speed +5.0%"
-Mad Scientist Gremory,[Party] Skill Atk +72.0%
-Pirate Rachel,"[Party] Range Atk +48.0%
-Skill Atk +6.0%"
-Sniper Hekate,"[Party] Crit Hit chance +24.0%
-Skill Atk + 5.0%"
-Innuit Girl Coco,"[Party] Skill Atk +72.0%
-Skill Atk +10.0%"
-Engineer Marianne,[Party] Earth Atk +36.0%
-Scientist Sohee,[Party] Weapon Skill Regen Speed +30.0%
-Kung Fu Master Mei,[Party] Melee Def +64.0%
-Desert Mercenary Marvin,[Party] HP +38.0%
-Aspiring Warrior Craig,"[Party] Def +44.0%
-Skill Atk +3.0%
+Vampire Girl Karina,"[Party] +3.0% HP recovery on enemy kill
+[Party] Dark Atk +30.0%"
+White Beast,"[Party] Water Atk +36.0%
 +0.5% HP recovery on enemy kill"
-Swordsman Akayuki,"[Party] Crit Hit chance +25.0%
-Skill Atk +5.0%"
-Dragon Talon Clan Ranpang,[Party] Def +42.0%
-Succubus Adventurer Yuze,"[Party] HP +36.0%
-Weapon Skill Regen Speed +5.0%"
-Princess Aisha,[Party] HP +36.0%
-Dragon Knight Shapira,[Party] Melee Atk +46.0%
-Swindler Magician Dolf,[Party] Weapon Skill Regen Speed +28.0%
-Dual-personality Maid Amy,"[Party] Melee Atk +48.0%
-+7.0% Atk increase on enemy kill"
-Fire Dragon Girgas,"[Party] Skill Atk +74.0%
-Skill Atk +10.0%"
-Dimension Traveler Catherine,"[Party] Range Def +66.0%
-+10.0% shield increase on battle start"

@@ -1,45 +1,45 @@
 Name,Exclusive weapon,Ability
-Goddess of War Plitvice,Prominence,"For each enemy hit, inflicts 25% of DPS extra damage and restores 1% HP by certain chance."
-Knight Lady Lapice,Innocent,Increases the attack range of Thousand Needles. She can also jump start Thousand Needles from level 3 right after using skills.
-Grand Admiral Marina,Armada,Pulling Skill inflicts 150% of DPS to a wider range.
-Executive Red Hood Arabelle,Genocide,"When attacking, fires a special grenade that inflicts extra 50% of DPS damage once in 3 seconds."
-Idol Captain Eva,Angel Voice,"When using Sound Wave skill, increases party members' Atk by 30% for 5 second(s). 10 second(s) cooltime."
-Flower Girl Bari,Mayreel,"Fires a swift spell bullet by 50% chance. Swift spell bullet shoots at 40% higher speed, and it recharges in 40% shorter time than normal spell bullets."
-Ice Witch Lupina,Amarok,Summons up to 2 extra dark wolves by 30% chance.
-Scrivener Lahn,Pure Mind,"On hit, energy explodes by certain chance. Inflicts 20% of DPS and decreases melee Def by 20% for 5 second(s)."
-Movie Star Eugene,Brave Heart,Shoots bullets to enemies far away.
 Dancing Archer Tinia,Sarnga,Desert Arrow's damage increases to 120% of DPS
 Dragon Avatar Vishuvac,Volcanic Horn,"The number of Flame Explosion increases one extra time and an explosion occurs, inflicting extra damage with 30% chance on Flame Blow's hit.                                        "
 Eight-tailed Fox Nari,Sage Bead,"When attacking, throws enhanced Fox Bead by 40% chance."
-Noble Succubus Bianca,Astarte,The attacking range and speed of Ice Cutter skill increases. Restores HP by 10% of damage inflicted by Ice Cutter skill.
-Mecha Warrior Oghma,Eckesachs,Returns part of inflicted damages to the attacker in proportion to Oghma's Def. 1 second(s) cooltime.
-Golem Rider Alef,Ouros,"On hit, inflicts extra 40% of DPS by 40% chance."
+Executive Red Hood Arabelle,Genocide,"When attacking, fires a special grenade that inflicts extra 50% of DPS damage once in 3 seconds."
 Exorcist Miya,Shangri La,"On Wind of Passion's hit, inflicts extra 20% damage of DPS. In case there's a Party member on its way, restores the Party member's HP by 10% of Heal."
+Flower Girl Bari,Mayreel,"Fires a swift spell bullet by 50% chance. Swift spell bullet shoots at 40% higher speed, and it recharges in 40% shorter time than normal spell bullets."
 Future Princess,Liberator,"On hit, inflicts 30% of DPS by 30% chance, restores all Party members' HP by 2%"
-Male Knight,Libera,"For each enemy hit, summons a lightning with high chance that inflicts additional 10% of DPS damage."
-Knight Captain Eva,Justice,"For each enemy hit, summons a spear of justice that inflicts additional 40% of DPS damage with certain chance."
-Red Hood Elvira,Trouble Maker,"Instead of throwing two apple bombs at the end, she throws a single special bomb that is twice as powerful as the normal bomb. Upon explosion, the special bomb leaves fire on the ground that inflicts 125% DPS damage for 3 second(s)."
-White Beast,,
-Vampire Girl Karina,Crescent Moon,Giant Vampire Bat inflicts 100% extra damage and penetrates enemies.
+Goddess of War Plitvice,Prominence,"For each enemy hit, inflicts 25% of DPS extra damage and restores 1% HP by certain chance."
+Golem Rider Alef,Ouros,"On hit, inflicts extra 40% of DPS by 40% chance."
+Grand Admiral Marina,Armada,Pulling Skill inflicts 150% of DPS to a wider range.
+Ice Witch Lupina,Amarok,Summons up to 2 extra dark wolves by 30% chance.
+Idol Captain Eva,Angel Voice,"When using Sound Wave skill, increases party members' Atk by 30% for 5 second(s). 10 second(s) cooltime."
+Knight Lady Lapice,Innocent,Increases the attack range of Thousand Needles. She can also jump start Thousand Needles from level 3 right after using skills.
+Mecha Warrior Oghma,Eckesachs,Returns part of inflicted damages to the attacker in proportion to Oghma's Def. 1 second(s) cooltime.
+Movie Star Eugene,Brave Heart,Shoots bullets to enemies far away.
+Noble Succubus Bianca,Astarte,The attacking range and speed of Ice Cutter skill increases. Restores HP by 10% of damage inflicted by Ice Cutter skill.
+Scrivener Lahn,Pure Mind,"On hit, energy explodes by certain chance. Inflicts 20% of DPS and decreases melee Def by 20% for 5 second(s)."
+Aspiring Warrior Craig,Silence,"When hit by melee attacks, inflicts 20% of DPS damage to the attacker and restores 1% HP. The damage increases in proportion to the Def. 2 second(s) cooltime."
+Desert Mercenary Marvin,Vulkan,"When hit by enemies, your rage explodes with 20% chance and inflicts 50% of DPS damage to enemies. 1 second(s) cooltime."
+Dimension Traveler Catherine,Marauder,"For each enemy hit, an additional arrow appears and inflicts 50% of DPS damage. 3 second(s) cooltime."
+Dragon Knight Shapira,,
+Dragon Talon Clan Ranpang,Firm Determination,"For each enemy hit, triggers an explosion that inflicts additional 30% of DPS damage with 30% chance."
+Dual-personality Maid Amy,,
+Engineer Marianne,Merciless,Fires an enhanced missile that inflicts additional 100% damage with 25% chance.
+Fire Dragon Girgas,,
 Innkeeper Loraine,,
-Twin Fighter Lavi,,
-Twin Healer Favi,,
+Innuit Girl Coco,Witch Heart,Automatically fires magic bullets that inflict 30% of DPS damage every second.
+Knight Captain Eva,Justice,"For each enemy hit, summons a spear of justice that inflicts additional 40% of DPS damage with certain chance."
+Kung Fu Master Mei,Pride of Fighter,Attacking range of Shen Mountain Fist increases.
 Leaf Fairy Aoba,,
 Mad Scientist Gremory,Curiosity Solver,Increases the range and damage of the final flask's explosion by 60%.
+Male Knight,Libera,"For each enemy hit, summons a lightning with high chance that inflicts additional 10% of DPS damage."
 Pirate Rachel,Blue Rose,"For each enemy hit, inflicts additional 40% of DPS damage and stuns the enemy with 10% chance."
-Sniper Hekate,,
-Innuit Girl Coco,Witch Heart,Automatically fires magic bullets that inflict 30% of DPS damage every second.
-Engineer Marianne,Merciless,Fires an enhanced missile that inflicts additional 100% damage with 25% chance.
-Scientist Sohee,Magiton Buster,Every 3 successive Magiton Laser hits inflicts additional 35% of DPS damage and stuns enemies.
-Kung Fu Master Mei,Pride of Fighter,Attacking range of Shen Mountain Fist increases.
-Desert Mercenary Marvin,Vulkan,"When hit by enemies, your rage explodes with 20% chance and inflicts 50% of DPS damage to enemies. 1 second(s) cooltime."
-Aspiring Warrior Craig,Silence,"When hit by melee attacks, inflicts 20% of DPS damage to the attacker and restores 1% HP. The damage increases in proportion to the Def. 2 second(s) cooltime."
-Swordsman Akayuki,Murasame,The final slash of the East Swordsmanship inflicts 50% more damage and becomes an area attack.
-Dragon Talon Clan Ranpang,Firm Determination,"For each enemy hit, triggers an explosion that inflicts additional 30% of DPS damage with 30% chance."
-Succubus Adventurer Yuze,Tartaros,Charm Skill decreases enemies' Atk by 30% for 8 second(s).
 Princess Aisha,Veritas,"When she lands a Crit Hit, all party members' Crit Hit chance increases by two times for 3 second(s). 8 second(s) cooltime."
-Dragon Knight Shapira,,
+Red Hood Elvira,Trouble Maker,"Instead of throwing two apple bombs at the end, she throws a single special bomb that is twice as powerful as the normal bomb. Upon explosion, the special bomb leaves fire on the ground that inflicts 125% DPS damage for 3 second(s)."
+Scientist Sohee,Magiton Buster,Every 3 successive Magiton Laser hits inflicts additional 35% of DPS damage and stuns enemies.
+Sniper Hekate,,
+Succubus Adventurer Yuze,Tartaros,Charm Skill decreases enemies' Atk by 30% for 8 second(s).
 Swindler Magician Dolf,Helios,Shoots a more powerful fireball with 30% chance.
-Dual-personality Maid Amy,,
-Fire Dragon Girgas,,
-Dimension Traveler Catherine,Marauder,"For each enemy hit, an additional arrow appears and inflicts 50% of DPS damage. 3 second(s) cooltime."
+Swordsman Akayuki,Murasame,The final slash of the East Swordsmanship inflicts 50% more damage and becomes an area attack.
+Twin Fighter Lavi,,
+Twin Healer Favi,,
+Vampire Girl Karina,Crescent Moon,Giant Vampire Bat inflicts 100% extra damage and penetrates enemies.
+White Beast,,
