@@ -28,7 +28,14 @@ def get_all_sub(html_source):
     for i in range(num_sub):
       idx1 = i * 2 + 1
       idx2 = idx1 + 1
-      sub = sub_stats[idx1] + sub_stats[idx2]
+      sub1 = sub_stats[idx1]
+      sub2 = sub_stats[idx2]
+      if sub1 == 'Damage Reduction':
+        sub = sub1 + ' ' + sub2
+      elif 'negated' in sub1:
+        sub = sub1 + '\n' + sub2
+      else:
+        sub = sub1 + sub2
       all_sub.append(sub)
     return '\n'.join(all_sub)
   except:

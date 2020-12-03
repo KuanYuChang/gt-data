@@ -17,12 +17,12 @@ HP +10.0%
 Skill Damage +10.0%"
 Ocean Earring,2,"Atk +10.0%
 Def +8.0%"
-Necklace of Blessing,2,"Damage Reduction30.0
+Necklace of Blessing,2,"Damage Reduction 30.0
 Def +8.0%"
 Ice Queen Ring,3,"Def +6.0%
 HP +10.0%
 Weapon Skill Regen Speed +10.0%"
-Wolf Ring,2,"Damage Reduction20.0
+Wolf Ring,2,"Damage Reduction 20.0
 HP +10.0%"
 Sacred Rosary,3,"Atk +10.0%
 HP +8.0%
@@ -32,17 +32,19 @@ Weapon Skill Regen Speed +10.0%"
 Gold Pocket Watch,2,"Atk +8.0%
 Skill Damage +12.0%"
 Angel Necklace,3,"Atk +8.0%
-Damage Reduction24.0
+Damage Reduction 24.0
 HP +8.0%
 Weapon Skill Regen Speed +6.0%"
 Greed Earring,2,"Def +6.0%
 HP +8.0%"
 Ring of Greed,2,"Atk +8.0%
 +2.0% HP recovery on enemy kill"
-Martyr Mirror Necklace,1,"Atk Decrease 100.0% negatedDef Decrease 100.0% negated
-Doom Damage 100.0% negatedInjury Damage 100.0% negated"
+Martyr Mirror Necklace,1,"Atk Decrease 100.0% negated
+Def Decrease 100.0% negated
+Doom Damage 100.0% negated
+Injury Damage 100.0% negated"
 Pearl Earring,1,HP +8.0%
-Mirror Earring of Worship,4,"Damage Reduction40.0
+Mirror Earring of Worship,4,"Damage Reduction 40.0
 +2.0% HP recovery on enemy kill
 +5.0% shield increase on battle start
 Def +10.0%
@@ -50,7 +52,7 @@ HP +12.0%
 Heal +20.0%
 Skill Damage +20.0%
 Weapon Skill Regen Speed +12.0%"
-Mirror Earring of Patience,4,"Damage Reduction40.0
+Mirror Earring of Patience,4,"Damage Reduction 40.0
 +2.0% HP recovery on enemy kill
 +5.0% shield increase on battle start
 Def +10.0%
@@ -58,7 +60,7 @@ HP +12.0%
 Heal +20.0%
 Skill Damage +20.0%
 Weapon Skill Regen Speed +12.0%"
-Mirror Earring of Nobility,4,"Damage Reduction40.0
+Mirror Earring of Nobility,4,"Damage Reduction 40.0
 +2.0% HP recovery on enemy kill
 +5.0% shield increase on battle start
 Def +10.0%
@@ -66,7 +68,7 @@ HP +12.0%
 Heal +20.0%
 Skill Damage +20.0%
 Weapon Skill Regen Speed +12.0%"
-Mirror Earring of Faith,4,"Damage Reduction40.0
+Mirror Earring of Faith,4,"Damage Reduction 40.0
 +2.0% HP recovery on enemy kill
 +5.0% shield increase on battle start
 Def +10.0%
@@ -74,7 +76,7 @@ HP +12.0%
 Heal +20.0%
 Skill Damage +20.0%
 Weapon Skill Regen Speed +12.0%"
-Mirror Necklace of Riches,4,"Damage Reduction40.0
+Mirror Necklace of Riches,4,"Damage Reduction 40.0
 +2.0% HP recovery on enemy kill
 +5.0% shield increase on battle start
 Def +10.0%
@@ -82,7 +84,7 @@ HP +12.0%
 Heal +20.0%
 Skill Damage +20.0%
 Weapon Skill Regen Speed +12.0%"
-Ruby Mirror Ring,4,"Damage Reduction40.0
+Ruby Mirror Ring,4,"Damage Reduction 40.0
 +2.0% HP recovery on enemy kill
 +5.0% shield increase on battle start
 Def +10.0%
@@ -135,11 +137,11 @@ Magic Fruit Necklace,2,"Atk +5.0%
 HP +6.0%"
 Emerald Ring,2,"Def +8.0%
 HP +4.0%"
-Obsidian Necklace,2,"Damage Reduction15.0
+Obsidian Necklace,2,"Damage Reduction 15.0
 Def +6.0%"
 Bell Necklace,1,Atk +5.0%
 Mercenaries Brooch,2,"Atk +5.0%
-Damage Reduction16.0"
+Damage Reduction 16.0"
 Gold Ring,2,"Def +6.0%
 HP +4.0%"
 Pearl Necklace,,
