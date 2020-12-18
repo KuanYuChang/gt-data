@@ -4,6 +4,7 @@ from lxml import html
 
 from common import *
 from hero.profile import *
+from hero.normal_attack import *
 from hero.max_stats import *
 from hero.chain_ability import *
 from hero.passives import *
@@ -54,6 +55,10 @@ print('Done.')
 # update profile
 profile = build_profile(hero_names, htmls)
 save_csv(csv_dir, 'profile', profile)
+
+# update profile
+normal_attack = build_normal_attack(hero_names, htmls)
+save_csv(csv_dir, 'normal_attack', normal_attack)
 
 # update max stats
 max_stats = build_max_stats(hero_names, htmls)
